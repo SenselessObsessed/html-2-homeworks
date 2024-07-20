@@ -1,0 +1,24 @@
+
+.welcome {
+  background-image: url("https://netology-code.github.io/html-2-homeworks/popup-elements/tour-page-header/img/barcelona.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+}
+
+.welcome::before {
+  content: "";
+  display: block;
+  background-color: rgba(0, 0, 0, .45);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.container {
+  position: relative;
+  z-index: 9999;
+}
