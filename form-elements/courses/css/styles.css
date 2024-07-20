@@ -1,0 +1,22 @@
+.courses-list-item {
+  margin-top: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.course {
+  padding: 20px 45px;
+}
+
+.hero {
+  background-image: url(https://netology-code.github.io/html-2-homeworks/form-elements/courses/img/presentation.jpg);
+  background-color: #6d6c69;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.hero-container {
+  text-align: center;
+}

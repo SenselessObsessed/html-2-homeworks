@@ -1,0 +1,17 @@
+
+.menu {
+  box-sizing: border-box;
+  width: 250px;
+  padding: 70px 30px;
+  font-size: 14px;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.content {
+  box-sizing: border-box;
+  padding: 50px 80px;
+  width: 1024px;
+  margin-left: 250px;
+}

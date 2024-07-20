@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'lobster';
+  src:  url(../fonts/Lobster-Regular.ttf), url(../fonts/lobster-regular.wof);
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  background-color: #69128d;
+  font-family: tahoma;
+}
+
+.container {
+  width: 880px;
+  padding-top: 195px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: 'lobster', Arial, sans-serif;
+}
